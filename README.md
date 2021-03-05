@@ -1,1 +1,1 @@
-# Sugoku-React-Native
+# sugoku
